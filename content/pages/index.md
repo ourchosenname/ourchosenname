@@ -130,14 +130,18 @@ sections:
           Content.
 
           Fee: $20-30/hr
-      - content: |
-          ### Invited Keynote
+      - content: >
+          ### Workplace Consultation
 
-          ###### *For conventions, conferences, and commemorative events*
 
-          Content.
+          ###### *For small businesses and nonprofit organizations*
 
-          Fee: $200-400
+
+          Learn concrete steps that your organization can take to create equity
+          for LGBTQIA+ employees, patrons, and customers.
+
+
+          Fee: $30-50/hour
       - content: |-
           ### Seeing What Works
 
