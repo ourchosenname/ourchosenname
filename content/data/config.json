@@ -126,5 +126,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "favicon": "/images/ocn-logo-small.png"
+    "favicon": "/images/ocn-logo-small.png",
+    "domain": "https://ourchosenname-8265c.netlify.app"
 }
