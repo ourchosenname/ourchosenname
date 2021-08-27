@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Contact
     subtitle: >-
       Thank you for testing this template. We hope you like it. Have a great
       day!
