@@ -54,7 +54,7 @@ sections:
           of examples which definitely motivates me”
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: /images/a-omara-2020-square.jpg
-        image_alt: Brandon Guidelines
+        image_alt: 'A person with light skin and an asymmetrical '
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
