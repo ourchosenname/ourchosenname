@@ -53,7 +53,7 @@ sections:
         subtitle: >-
           Dr. Aley O'Mara is a writer and educator with over a decade of
           experience working in education and nonprofits. They specialize in
-          queer identity .
+          queer advocacy, including asexuality and trans/nonbinary identities.
         image: /images/a-omara-2020-square.jpg
         image_alt: >-
           A person with light skin and an asymmetrical haircut. Their hair is
