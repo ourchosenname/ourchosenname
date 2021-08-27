@@ -14,7 +14,7 @@ sections:
         icon: arrow-right
         icon_position: right
     image: /images/colored-pencils.png
-    image_alt: 'A rainbow of colored pencils '
+    image_alt: A rainbow of colored pencils arranged in a spiral.
     media_position: left
     media_width: fourty
     align: left
