@@ -49,7 +49,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: About Me
+      - title: About
         subtitle: >-
           Dr. Aley O'Mara is a writer and educator with over a decade of
           experience working in education and nonprofits. They specialize in
