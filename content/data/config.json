@@ -16,7 +16,7 @@
         "secondary_nav_links": [
             {
                 "label": "Start Learning",
-                "url": "/thank-you",
+                "url": "/Contact",
                 "style": "primary"
             }
         ]
