@@ -102,18 +102,14 @@ sections:
           Content.
 
           Fee: $100-300
-      - content: >
-          ### Workplace Consultation
+      - content: |
+          ### Sensitivity Reading
 
+          ###### *For writers*
 
-          ###### *For small businesses and nonprofit organizations*
+          Content.
 
-
-          Learn concrete steps that your organization can take to create equity
-          for LGBTQIA+ employees, patrons, and customers.
-
-
-          Fee: $30-50/hour
+          Fee: $20-30/hr
       - content: |
           ### Asexuality Workshop
 
