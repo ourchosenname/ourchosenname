@@ -6,7 +6,7 @@ sections:
     subtitle: Content
     actions:
       - label: Contact
-        url: 'mailto:'
+        url: 'mailto:ourchosenname@gmail.com'
         style: primary
         has_icon: true
         icon: arrow-right
