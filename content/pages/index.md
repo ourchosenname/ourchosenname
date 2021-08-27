@@ -35,7 +35,7 @@ sections:
           - The social media of today
         actions:
           - label: Start learning
-            url: /thank-you
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
