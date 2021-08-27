@@ -2,7 +2,7 @@
     "title": "Our Chosen Name Home",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "bold",
+    "style": "minimal",
     "palette": "gray",
     "mode": "light",
     "base_font": "sans-serif",
