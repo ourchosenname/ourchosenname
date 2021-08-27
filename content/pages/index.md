@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: Transforming work for a transforming world
     subtitle: Subtitle
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: |
+      Content
     actions:
       - label: Get the book
         url: /pricing
