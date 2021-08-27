@@ -95,7 +95,7 @@ sections:
     title: Services
     grid_items:
       - content: |
-          ### Pronouns Training
+          ### Pronouns Workshop
 
           ###### *For the workplace*
 
