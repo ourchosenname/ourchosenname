@@ -90,7 +90,7 @@
                 "url": "https://facebook.com/ourchosenname",
                 "style": "link",
                 "has_icon": true,
-                "icon": "github",
+                "icon": "facebook",
                 "icon_position": "center",
                 "new_window": true
             },
