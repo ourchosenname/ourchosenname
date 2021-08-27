@@ -39,7 +39,7 @@
     },
     "footer": {
         "logo": "/images/ocn-logo-banner-small.png",
-        "logo_alt": "Book logo",
+        "logo_alt": "Our Chosen Name logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
