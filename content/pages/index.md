@@ -49,9 +49,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
+      - title: About Me
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: /images/a-omara-2020-square.jpg
         image_alt: >-
