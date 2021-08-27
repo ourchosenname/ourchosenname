@@ -7,7 +7,7 @@ sections:
     content: |
       Content
     actions:
-      - label: Get the book
+      - label: Contact
         url: /pricing
         style: primary
         has_icon: true
