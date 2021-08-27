@@ -104,8 +104,8 @@ sections:
 
           Know your PPC from your CPA and CTR — a quick start guide to
           performance marketing channels, setups, budgeting and creative.
-      - content: |-
-          ### The Truth About Branding
+      - content: |
+          ### Asexuality Workshop
 
           A brand is merely a collection of touchpoints between your company and
           your customers. Learn how to make those interactions count.
