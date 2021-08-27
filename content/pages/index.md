@@ -113,7 +113,7 @@ sections:
 
           ###### *For schools, colleges, and libraries*
 
-          Content.
+          Learn about the history, present, and future of queer asexuality.
 
           Fee: $100-300
       - content: |-
