@@ -63,7 +63,7 @@ sections:
         media_width: thirty-three
         actions:
           - label: Learn more
-            url: '#'
+            url: '#https://ashleyomara.com'
             style: link
             has_icon: true
             icon: arrow-right
