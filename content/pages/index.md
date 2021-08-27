@@ -102,12 +102,18 @@ sections:
           Content.
 
           Fee: $100-300
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Workplace Consultation
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          ###### *For small businesses and nonprofit organizations*
+
+
+          Learn concrete steps that your organization can take to create equity
+          for LGBTQIA+ employees, patrons, and customers.
+
+
+          Fee: $30/hour
       - content: |
           ### Asexuality Workshop
 
