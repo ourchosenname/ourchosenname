@@ -101,7 +101,7 @@ sections:
 
           Content.
 
-          Price: $100-300
+          Fee: $100-300
       - content: >-
           ### Performance Marketing
 
