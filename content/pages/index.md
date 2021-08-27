@@ -97,7 +97,11 @@ sections:
       - content: |
           ### Pronouns Training
 
+          *For the workplace*
+
           Content.
+
+          Price: $100-300
       - content: >-
           ### Performance Marketing
 
