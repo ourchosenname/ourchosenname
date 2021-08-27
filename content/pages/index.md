@@ -8,7 +8,7 @@ sections:
       Content
     actions:
       - label: Contact
-        url: /pricing
+        url: /contact
         style: primary
         has_icon: true
         icon: arrow-right
