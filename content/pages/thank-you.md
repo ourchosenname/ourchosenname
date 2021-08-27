@@ -5,7 +5,7 @@ sections:
     title: Contact
     subtitle: Content
     actions:
-      - label: Back to homepage
+      - label: Contact
         url: /
         style: primary
         has_icon: true
