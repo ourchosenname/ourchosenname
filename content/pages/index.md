@@ -53,7 +53,7 @@ sections:
           “This book is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
-        image: /images/a-omara-2020.jpg
+        image: /images/a-omara-2020-square.jpg
         image_alt: Brandon Guidelines
         media_position: left
         media_width: thirty-three
