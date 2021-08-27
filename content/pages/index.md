@@ -119,13 +119,13 @@ sections:
 
           Fee: $100-300
       - content: |
-          ### Sensitivity Reading
+          ### Academic Editing and Research
 
-          ###### *For writers*
+          ###### *For scholars*
 
           Content.
 
-          Fee: $20-30/hr
+          Fee: $25/hr
       - content: >
           ### Workplace Consultation
 
