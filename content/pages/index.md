@@ -177,7 +177,7 @@ sections:
   - type: cta_section
     title: Download the e-book today
     actions:
-      - label: Book today
+      - label: Book now
         url: /pricing
         style: primary
     actions_position: bottom
