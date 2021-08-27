@@ -56,7 +56,8 @@ sections:
         image: /images/a-omara-2020-square.jpg
         image_alt: >-
           A person with light skin and an asymmetrical haircut. Their hair is
-          bright ginger with dark roots.
+          bright ginger with dark roots, and they are wearing a black scoopneck
+          shirt.
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
