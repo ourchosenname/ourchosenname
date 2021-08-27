@@ -111,7 +111,7 @@ sections:
       - content: |
           ### Asexuality Workshop
 
-          ###### For schools, colleges, and libraries
+          ###### *For schools, colleges, and libraries*
 
           Content.
 
