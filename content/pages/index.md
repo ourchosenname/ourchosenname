@@ -97,7 +97,7 @@ sections:
       - content: |
           ### Pronouns Training
 
-          *For the workplace*
+          ###### *For the workplace*
 
           Content.
 
