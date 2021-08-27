@@ -122,12 +122,14 @@ sections:
           Learn about the history, present, and future of queer asexuality.
 
           Fee: $100-300
-      - content: |-
-          ### Content is King
+      - content: |
+          ### Sensitivity Reading
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+          ###### *For writers*
+
+          Content.
+
+          Fee: $20-30/hr
       - content: |
           ### Invited Keynote
 
