@@ -111,7 +111,11 @@ sections:
       - content: |
           ### Asexuality Workshop
 
+          ###### For schools, colleges, and libraries
+
           Content.
+
+          Fee: $100-300
       - content: |-
           ### Content is King
 
