@@ -69,7 +69,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/hello-sharpies.jpeg
-        image_alt: '"Hello my name" is tags '
+        image_alt: '"Hello my name" is stickers and '
         media_position: right
         media_width: fifty
     feature_padding_vert: small
