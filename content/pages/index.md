@@ -94,11 +94,10 @@ sections:
   - type: grid_section
     title: Services
     grid_items:
-      - content: |-
-          ### Know Your Audience
+      - content: |
+          ### Pronouns Training
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+          Content.
       - content: >-
           ### Performance Marketing
 
