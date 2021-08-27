@@ -113,7 +113,7 @@ sections:
           for LGBTQIA+ employees, patrons, and customers.
 
 
-          Fee: $30/hour
+          Fee: $30-50/hour
       - content: |
           ### Asexuality Workshop
 
