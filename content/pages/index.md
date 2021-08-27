@@ -178,7 +178,7 @@ sections:
     title: Download the e-book today
     actions:
       - label: Book now
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
