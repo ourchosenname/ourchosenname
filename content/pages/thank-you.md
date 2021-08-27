@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: Content
     actions:
       - label: Back to homepage
         url: /
