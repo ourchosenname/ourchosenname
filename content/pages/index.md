@@ -138,12 +138,14 @@ sections:
 
 
           Fee: $30-50/hour
-      - content: |-
-          ### Seeing What Works
+      - content: |
+          ### Custom Work
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+          ###### *For all your other needs*
+
+          Content.
+
+          Fee: negotiable
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
