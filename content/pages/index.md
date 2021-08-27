@@ -62,7 +62,7 @@ sections:
         media_position: left
         media_width: thirty-three
         actions:
-          - label: lorem-ipsum
+          - label: Learn more
             url: '#'
             style: link
             has_icon: true
