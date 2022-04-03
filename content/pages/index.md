@@ -24,7 +24,7 @@ sections:
   - type: features_section
     features:
       - title: What You’ll Learn
-        subtitle: **How Our Chosen Name** will transform your business
+        subtitle: "**How Our Chosen Name** will transform your business"
         content: |-
           - All you need to know about gender identity and gender pronouns
           - How to create a trans-friendly workplace
