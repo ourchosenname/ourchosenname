@@ -24,7 +24,7 @@ sections:
   - type: features_section
     features:
       - title: What You’ll Learn
-        subtitle: "**How Our Chosen Name** will transform your business"
+        subtitle: "How Our Chosen Name will transform your business"
         content: |-
           - All you need to know about gender identity and gender pronouns
           - How to create a trans-friendly workplace
@@ -63,7 +63,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Who Can Benefit from **Our Chosen Name**?
+    title: Who Can Benefit from Our Chosen Name?
     grid_items:
       - content: |-
           #### Stores & Restaurants
@@ -95,7 +95,7 @@ sections:
       - title: Our Leader
         subtitle: Aley O’Mara, PhD (they/them)
         content: |-
-          **Education is everything** . Aley O’Mara has spent over a decade teaching and researching LGBTQIA+ issues. As a professional development trainer at Syracuse University, they created and led sessions on learning and using gender pronouns and building supportive workplaces and classrooms for trans staff and students.
+          Education is everything. Aley O’Mara has spent over a decade teaching and researching LGBTQIA+ issues. As a professional development trainer at Syracuse University, they created and led sessions on learning and using gender pronouns and building supportive workplaces and classrooms for trans staff and students.
 
           > **Lorem ipsum”**
 
